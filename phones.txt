@@ -1,4 +1,6 @@
 1) Iphones10
 2) Iphones11
 3) Iphones12
+4)Android10
+5)Android11
 
