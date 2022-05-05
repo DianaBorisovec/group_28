@@ -3,4 +3,6 @@
 3) Iphones12
 4)Android10
 5)Android11
-
+6) xsiaomi p20
+7) xsiaomi p21
+8) samsung21
