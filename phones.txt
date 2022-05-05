@@ -5,4 +5,4 @@
 5)Android11
 6) xsiaomi p20
 7) xsiaomi p21
-8) samsung20
+8) samsung21
